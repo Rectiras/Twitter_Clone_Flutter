@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "495493535054",
+    "project_id": "cs310-group2",
+    "storage_bucket": "cs310-group2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495493535054:android:9ae6c2b378aec646273a1f",
+        "android_client_info": {
+          "package_name": "com.example.projegiris310"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495493535054-gdqjkmv35ibuo0qhem109tjk87i6iedg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projegiris310",
+            "certificate_hash": "bf4a73de209d89984074a5a6269e6f6f9f8c19a6"
+          }
+        },
+        {
+          "client_id": "495493535054-vb03e05lrau7u9qaub5cgid6s8v0ml82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrnS_Konger8-LbIIOh3ISaof6KLMB46c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495493535054-vb03e05lrau7u9qaub5cgid6s8v0ml82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
